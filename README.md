@@ -1,4 +1,4 @@
-# 📊 Task 8: Simple Sales Dashboard Design
+# 📊 Simple Sales Dashboard Design
 
 ### 👨‍💻 Internship: Data Analyst Role  
 **Tool Used:** Power BI  

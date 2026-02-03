@@ -1,4 +1,3 @@
-# Task-8-Elevate-labs-DATA-ANALYST-INTERNSHIP
 # 📊 Task 8: Simple Sales Dashboard Design
 
 ### 👨‍💻 Internship: Data Analyst Role  
